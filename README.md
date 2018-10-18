@@ -5,6 +5,6 @@ Prototype of script that compresses black and white floorplan
 
 Place an image at the root of the repository. The image must be named *image.png*. Now run:
 
-`node .`
+`yarn && node .`
 
 The result is placed in a file called output.floorplan
